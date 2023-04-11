@@ -1,0 +1,5 @@
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Koira olio\Koira olio\obj\Debug\net6.0\Koira olio.csproj.AssemblyReference.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Koira olio\Koira olio\obj\Debug\net6.0\Koira olio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Koira olio\Koira olio\obj\Debug\net6.0\Koira olio.AssemblyInfoInputs.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Koira olio\Koira olio\obj\Debug\net6.0\Koira olio.AssemblyInfo.cs
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Koira olio\Koira olio\obj\Debug\net6.0\Koira olio.csproj.CoreCompileInputs.cache

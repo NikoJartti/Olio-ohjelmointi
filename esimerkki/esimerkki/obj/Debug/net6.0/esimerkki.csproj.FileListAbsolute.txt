@@ -1,0 +1,15 @@
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\esimerkki\esimerkki\bin\Debug\net6.0\esimerkki.exe
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\esimerkki\esimerkki\bin\Debug\net6.0\esimerkki.deps.json
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\esimerkki\esimerkki\bin\Debug\net6.0\esimerkki.runtimeconfig.json
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\esimerkki\esimerkki\bin\Debug\net6.0\esimerkki.dll
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\esimerkki\esimerkki\bin\Debug\net6.0\esimerkki.pdb
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\esimerkki\esimerkki\obj\Debug\net6.0\esimerkki.csproj.AssemblyReference.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\esimerkki\esimerkki\obj\Debug\net6.0\esimerkki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\esimerkki\esimerkki\obj\Debug\net6.0\esimerkki.AssemblyInfoInputs.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\esimerkki\esimerkki\obj\Debug\net6.0\esimerkki.AssemblyInfo.cs
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\esimerkki\esimerkki\obj\Debug\net6.0\esimerkki.csproj.CoreCompileInputs.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\esimerkki\esimerkki\obj\Debug\net6.0\esimerkki.dll
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\esimerkki\esimerkki\obj\Debug\net6.0\refint\esimerkki.dll
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\esimerkki\esimerkki\obj\Debug\net6.0\esimerkki.pdb
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\esimerkki\esimerkki\obj\Debug\net6.0\esimerkki.genruntimeconfig.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\esimerkki\esimerkki\obj\Debug\net6.0\ref\esimerkki.dll

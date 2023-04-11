@@ -1,0 +1,15 @@
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\esimerkki\Albumi\obj\Debug\net6.0\harjoitus 4.csproj.AssemblyReference.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\esimerkki\Albumi\obj\Debug\net6.0\harjoitus 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\esimerkki\Albumi\obj\Debug\net6.0\harjoitus 4.AssemblyInfoInputs.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\esimerkki\Albumi\obj\Debug\net6.0\harjoitus 4.AssemblyInfo.cs
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\esimerkki\Albumi\obj\Debug\net6.0\harjoitus 4.csproj.CoreCompileInputs.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\esimerkki\Albumi\bin\Debug\net6.0\harjoitus 4.exe
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\esimerkki\Albumi\bin\Debug\net6.0\harjoitus 4.deps.json
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\esimerkki\Albumi\bin\Debug\net6.0\harjoitus 4.runtimeconfig.json
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\esimerkki\Albumi\bin\Debug\net6.0\harjoitus 4.dll
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\esimerkki\Albumi\bin\Debug\net6.0\harjoitus 4.pdb
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\esimerkki\Albumi\obj\Debug\net6.0\harjoitus 4.dll
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\esimerkki\Albumi\obj\Debug\net6.0\refint\harjoitus 4.dll
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\esimerkki\Albumi\obj\Debug\net6.0\harjoitus 4.pdb
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\esimerkki\Albumi\obj\Debug\net6.0\harjoitus 4.genruntimeconfig.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\esimerkki\Albumi\obj\Debug\net6.0\ref\harjoitus 4.dll
