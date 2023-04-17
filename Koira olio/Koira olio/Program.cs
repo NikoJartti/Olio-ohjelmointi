@@ -1,8 +1,10 @@
-﻿internal class Program
+﻿using Koira_olio;
+
+internal class Program
 {
     private static void Main(string[] args)
     {
-        Koira KoiraOlio = new Koira();
+        Koira KoiraOlio = new Koira("Rekku", "Saksanpaimenkoira", 4, "Harmaa", 32.0f);
 
         KoiraOlio.Nimi = "Rekku";
         KoiraOlio.Rotu = "Saksanpaimenkoira";

@@ -3,3 +3,13 @@ C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Koira olio\Koira o
 C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Koira olio\Koira olio\obj\Debug\net6.0\Koira olio.AssemblyInfoInputs.cache
 C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Koira olio\Koira olio\obj\Debug\net6.0\Koira olio.AssemblyInfo.cs
 C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Koira olio\Koira olio\obj\Debug\net6.0\Koira olio.csproj.CoreCompileInputs.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Koira olio\Koira olio\bin\Debug\net6.0\Koira olio.exe
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Koira olio\Koira olio\bin\Debug\net6.0\Koira olio.deps.json
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Koira olio\Koira olio\bin\Debug\net6.0\Koira olio.runtimeconfig.json
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Koira olio\Koira olio\bin\Debug\net6.0\Koira olio.dll
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Koira olio\Koira olio\bin\Debug\net6.0\Koira olio.pdb
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Koira olio\Koira olio\obj\Debug\net6.0\Koira olio.dll
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Koira olio\Koira olio\obj\Debug\net6.0\refint\Koira olio.dll
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Koira olio\Koira olio\obj\Debug\net6.0\Koira olio.pdb
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Koira olio\Koira olio\obj\Debug\net6.0\Koira olio.genruntimeconfig.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Koira olio\Koira olio\obj\Debug\net6.0\ref\Koira olio.dll
