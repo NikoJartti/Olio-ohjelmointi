@@ -1,0 +1,15 @@
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 2 opiskelija\harjoitus 2 opiskelija\bin\Debug\net6.0\harjoitus 2 opiskelija.exe
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 2 opiskelija\harjoitus 2 opiskelija\bin\Debug\net6.0\harjoitus 2 opiskelija.deps.json
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 2 opiskelija\harjoitus 2 opiskelija\bin\Debug\net6.0\harjoitus 2 opiskelija.runtimeconfig.json
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 2 opiskelija\harjoitus 2 opiskelija\bin\Debug\net6.0\harjoitus 2 opiskelija.dll
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 2 opiskelija\harjoitus 2 opiskelija\bin\Debug\net6.0\harjoitus 2 opiskelija.pdb
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 2 opiskelija\harjoitus 2 opiskelija\obj\Debug\net6.0\harjoitus 2 opiskelija.csproj.AssemblyReference.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 2 opiskelija\harjoitus 2 opiskelija\obj\Debug\net6.0\harjoitus 2 opiskelija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 2 opiskelija\harjoitus 2 opiskelija\obj\Debug\net6.0\harjoitus 2 opiskelija.AssemblyInfoInputs.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 2 opiskelija\harjoitus 2 opiskelija\obj\Debug\net6.0\harjoitus 2 opiskelija.AssemblyInfo.cs
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 2 opiskelija\harjoitus 2 opiskelija\obj\Debug\net6.0\harjoitus 2 opiskelija.csproj.CoreCompileInputs.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 2 opiskelija\harjoitus 2 opiskelija\obj\Debug\net6.0\harjoitus 2 opiskelija.dll
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 2 opiskelija\harjoitus 2 opiskelija\obj\Debug\net6.0\refint\harjoitus 2 opiskelija.dll
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 2 opiskelija\harjoitus 2 opiskelija\obj\Debug\net6.0\harjoitus 2 opiskelija.pdb
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 2 opiskelija\harjoitus 2 opiskelija\obj\Debug\net6.0\harjoitus 2 opiskelija.genruntimeconfig.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 2 opiskelija\harjoitus 2 opiskelija\obj\Debug\net6.0\ref\harjoitus 2 opiskelija.dll
