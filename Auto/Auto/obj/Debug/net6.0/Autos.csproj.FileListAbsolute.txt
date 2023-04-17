@@ -1,0 +1,15 @@
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Auto\Auto\obj\Debug\net6.0\Autos.csproj.AssemblyReference.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Auto\Auto\obj\Debug\net6.0\Autos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Auto\Auto\obj\Debug\net6.0\Autos.AssemblyInfoInputs.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Auto\Auto\obj\Debug\net6.0\Autos.AssemblyInfo.cs
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Auto\Auto\obj\Debug\net6.0\Autos.csproj.CoreCompileInputs.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Auto\Auto\bin\Debug\net6.0\Autos.exe
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Auto\Auto\bin\Debug\net6.0\Autos.deps.json
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Auto\Auto\bin\Debug\net6.0\Autos.runtimeconfig.json
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Auto\Auto\bin\Debug\net6.0\Autos.dll
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Auto\Auto\bin\Debug\net6.0\Autos.pdb
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Auto\Auto\obj\Debug\net6.0\Autos.dll
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Auto\Auto\obj\Debug\net6.0\refint\Autos.dll
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Auto\Auto\obj\Debug\net6.0\Autos.pdb
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Auto\Auto\obj\Debug\net6.0\Autos.genruntimeconfig.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Auto\Auto\obj\Debug\net6.0\ref\Autos.dll
