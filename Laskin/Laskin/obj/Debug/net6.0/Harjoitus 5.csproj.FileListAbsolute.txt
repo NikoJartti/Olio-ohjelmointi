@@ -1,0 +1,15 @@
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Laskin\Laskin\bin\Debug\net6.0\Harjoitus 5.exe
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Laskin\Laskin\bin\Debug\net6.0\Harjoitus 5.deps.json
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Laskin\Laskin\bin\Debug\net6.0\Harjoitus 5.runtimeconfig.json
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Laskin\Laskin\bin\Debug\net6.0\Harjoitus 5.dll
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Laskin\Laskin\bin\Debug\net6.0\Harjoitus 5.pdb
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Laskin\Laskin\obj\Debug\net6.0\Harjoitus 5.csproj.AssemblyReference.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Laskin\Laskin\obj\Debug\net6.0\Harjoitus 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Laskin\Laskin\obj\Debug\net6.0\Harjoitus 5.AssemblyInfoInputs.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Laskin\Laskin\obj\Debug\net6.0\Harjoitus 5.AssemblyInfo.cs
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Laskin\Laskin\obj\Debug\net6.0\Harjoitus 5.csproj.CoreCompileInputs.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Laskin\Laskin\obj\Debug\net6.0\Harjoitus 5.dll
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Laskin\Laskin\obj\Debug\net6.0\refint\Harjoitus 5.dll
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Laskin\Laskin\obj\Debug\net6.0\Harjoitus 5.pdb
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Laskin\Laskin\obj\Debug\net6.0\Harjoitus 5.genruntimeconfig.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Laskin\Laskin\obj\Debug\net6.0\ref\Harjoitus 5.dll
