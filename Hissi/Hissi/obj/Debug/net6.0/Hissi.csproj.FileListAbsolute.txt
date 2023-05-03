@@ -1,0 +1,5 @@
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Hissi\Hissi\obj\Debug\net6.0\Hissi.csproj.AssemblyReference.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Hissi\Hissi\obj\Debug\net6.0\Hissi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Hissi\Hissi\obj\Debug\net6.0\Hissi.AssemblyInfoInputs.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Hissi\Hissi\obj\Debug\net6.0\Hissi.AssemblyInfo.cs
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Hissi\Hissi\obj\Debug\net6.0\Hissi.csproj.CoreCompileInputs.cache

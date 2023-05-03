@@ -1,0 +1,15 @@
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Hissi\Hissi\bin\Debug\net6.0\harjoitus 7.exe
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Hissi\Hissi\bin\Debug\net6.0\harjoitus 7.deps.json
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Hissi\Hissi\bin\Debug\net6.0\harjoitus 7.runtimeconfig.json
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Hissi\Hissi\bin\Debug\net6.0\harjoitus 7.dll
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Hissi\Hissi\bin\Debug\net6.0\harjoitus 7.pdb
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Hissi\Hissi\obj\Debug\net6.0\harjoitus 7.csproj.AssemblyReference.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Hissi\Hissi\obj\Debug\net6.0\harjoitus 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Hissi\Hissi\obj\Debug\net6.0\harjoitus 7.AssemblyInfoInputs.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Hissi\Hissi\obj\Debug\net6.0\harjoitus 7.AssemblyInfo.cs
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Hissi\Hissi\obj\Debug\net6.0\harjoitus 7.csproj.CoreCompileInputs.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Hissi\Hissi\obj\Debug\net6.0\harjoitus 7.dll
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Hissi\Hissi\obj\Debug\net6.0\refint\harjoitus 7.dll
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Hissi\Hissi\obj\Debug\net6.0\harjoitus 7.pdb
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Hissi\Hissi\obj\Debug\net6.0\harjoitus 7.genruntimeconfig.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Hissi\Hissi\obj\Debug\net6.0\ref\harjoitus 7.dll
