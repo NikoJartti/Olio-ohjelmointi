@@ -1,0 +1,15 @@
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Harjoitus 24\Harjoitus 24\bin\Debug\Harjoitus 24.exe.config
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Harjoitus 24\Harjoitus 24\bin\Debug\Harjoitus 24.exe
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Harjoitus 24\Harjoitus 24\bin\Debug\Harjoitus 24.pdb
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Harjoitus 24\Harjoitus 24\obj\Debug\Harjoitus 24.csproj.AssemblyReference.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Harjoitus 24\Harjoitus 24\obj\Debug\MainWindow.g.cs
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Harjoitus 24\Harjoitus 24\obj\Debug\App.g.cs
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Harjoitus 24\Harjoitus 24\obj\Debug\Harjoitus 24_MarkupCompile.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Harjoitus 24\Harjoitus 24\obj\Debug\Harjoitus 24_MarkupCompile.lref
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Harjoitus 24\Harjoitus 24\obj\Debug\MainWindow.baml
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Harjoitus 24\Harjoitus 24\obj\Debug\Harjoitus 24.g.resources
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Harjoitus 24\Harjoitus 24\obj\Debug\Harjoitus_24.Properties.Resources.resources
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Harjoitus 24\Harjoitus 24\obj\Debug\Harjoitus 24.csproj.GenerateResource.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Harjoitus 24\Harjoitus 24\obj\Debug\Harjoitus 24.csproj.CoreCompileInputs.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Harjoitus 24\Harjoitus 24\obj\Debug\Harjoitus 24.exe
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\Harjoitus 24\Harjoitus 24\obj\Debug\Harjoitus 24.pdb

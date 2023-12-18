@@ -1,0 +1,12 @@
+﻿<Window x:Class="TalonHallintaSovellus.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Talon Hallinta" Height="350" Width="525">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button Content="Valot Päälle/Pois" Click="ValotPäällePoisButton_Click"/>
+            <Slider x:Name="LämpötilaSäädin" Minimum="0" Maximum="30" Value="20"/>
+            <Button Content="Lukitse/Avaa Ovi" Click="LukitseAvaaOviButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

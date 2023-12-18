@@ -1,0 +1,14 @@
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 8 KT\harjoitus 8 KT\bin\Debug\net6.0\harjoitus 8 KT.exe
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 8 KT\harjoitus 8 KT\bin\Debug\net6.0\harjoitus 8 KT.deps.json
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 8 KT\harjoitus 8 KT\bin\Debug\net6.0\harjoitus 8 KT.runtimeconfig.json
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 8 KT\harjoitus 8 KT\bin\Debug\net6.0\harjoitus 8 KT.dll
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 8 KT\harjoitus 8 KT\bin\Debug\net6.0\harjoitus 8 KT.pdb
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 8 KT\harjoitus 8 KT\obj\Debug\net6.0\harjoitus 8 KT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 8 KT\harjoitus 8 KT\obj\Debug\net6.0\harjoitus 8 KT.AssemblyInfoInputs.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 8 KT\harjoitus 8 KT\obj\Debug\net6.0\harjoitus 8 KT.AssemblyInfo.cs
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 8 KT\harjoitus 8 KT\obj\Debug\net6.0\harjoitus 8 KT.csproj.CoreCompileInputs.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 8 KT\harjoitus 8 KT\obj\Debug\net6.0\harjoitus 8 KT.dll
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 8 KT\harjoitus 8 KT\obj\Debug\net6.0\refint\harjoitus 8 KT.dll
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 8 KT\harjoitus 8 KT\obj\Debug\net6.0\harjoitus 8 KT.pdb
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 8 KT\harjoitus 8 KT\obj\Debug\net6.0\harjoitus 8 KT.genruntimeconfig.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 8 KT\harjoitus 8 KT\obj\Debug\net6.0\ref\harjoitus 8 KT.dll

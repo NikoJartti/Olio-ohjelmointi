@@ -1,0 +1,2 @@
+nukkuminen,True
+pelaaminen,False

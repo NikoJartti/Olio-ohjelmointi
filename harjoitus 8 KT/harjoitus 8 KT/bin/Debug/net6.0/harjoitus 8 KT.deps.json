@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "harjoitus 8 KT/1.0.0": {
+        "runtime": {
+          "harjoitus 8 KT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "harjoitus 8 KT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

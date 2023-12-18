@@ -1,0 +1,25 @@
+﻿<Window x:Class="harjoitus_22.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:harjoitus_22"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel Margin="10">
+            <Label Content="Ikkunan Leveys (L) mm:"/>
+            <TextBox Name="txtWidth" Width="100" Margin="0,0,0,5"/>
+
+            <Label Content="Ikkunan Korkeus (H) mm:"/>
+            <TextBox Name="txtHeight" Width="100" Margin="0,0,0,5"/>
+
+            <Label Content="Karmipuun Leveys (W) mm:"/>
+            <TextBox Name="txtFrameWidth" Width="100" Margin="0,0,0,5"/>
+
+            <Button Content="Laske" Click="CalculateButton_Click" Margin="0,10,0,0"/>
+
+            <TextBlock Name="txtResults" Margin="0,20,0,0"/>
+        </StackPanel>
+    </Grid>
+</Window>

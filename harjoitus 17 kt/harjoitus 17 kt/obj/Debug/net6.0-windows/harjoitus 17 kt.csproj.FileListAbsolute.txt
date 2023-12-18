@@ -1,0 +1,19 @@
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 17 kt\harjoitus 17 kt\bin\Debug\net6.0-windows\harjoitus 17 kt.exe
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 17 kt\harjoitus 17 kt\bin\Debug\net6.0-windows\harjoitus 17 kt.deps.json
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 17 kt\harjoitus 17 kt\bin\Debug\net6.0-windows\harjoitus 17 kt.runtimeconfig.json
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 17 kt\harjoitus 17 kt\bin\Debug\net6.0-windows\harjoitus 17 kt.dll
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 17 kt\harjoitus 17 kt\bin\Debug\net6.0-windows\harjoitus 17 kt.pdb
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 17 kt\harjoitus 17 kt\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 17 kt\harjoitus 17 kt\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 17 kt\harjoitus 17 kt\obj\Debug\net6.0-windows\harjoitus 17 kt_MarkupCompile.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 17 kt\harjoitus 17 kt\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 17 kt\harjoitus 17 kt\obj\Debug\net6.0-windows\harjoitus 17 kt.g.resources
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 17 kt\harjoitus 17 kt\obj\Debug\net6.0-windows\harjoitus 17 kt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 17 kt\harjoitus 17 kt\obj\Debug\net6.0-windows\harjoitus 17 kt.AssemblyInfoInputs.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 17 kt\harjoitus 17 kt\obj\Debug\net6.0-windows\harjoitus 17 kt.AssemblyInfo.cs
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 17 kt\harjoitus 17 kt\obj\Debug\net6.0-windows\harjoitus 17 kt.csproj.CoreCompileInputs.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 17 kt\harjoitus 17 kt\obj\Debug\net6.0-windows\harjoitus 17 kt.dll
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 17 kt\harjoitus 17 kt\obj\Debug\net6.0-windows\refint\harjoitus 17 kt.dll
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 17 kt\harjoitus 17 kt\obj\Debug\net6.0-windows\harjoitus 17 kt.pdb
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 17 kt\harjoitus 17 kt\obj\Debug\net6.0-windows\harjoitus 17 kt.genruntimeconfig.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 17 kt\harjoitus 17 kt\obj\Debug\net6.0-windows\ref\harjoitus 17 kt.dll

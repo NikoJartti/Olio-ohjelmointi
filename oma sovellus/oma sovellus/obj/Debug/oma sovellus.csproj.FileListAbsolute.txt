@@ -1,0 +1,15 @@
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\oma sovellus\oma sovellus\obj\Debug\oma sovellus.csproj.AssemblyReference.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\oma sovellus\oma sovellus\obj\Debug\MainWindow.g.cs
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\oma sovellus\oma sovellus\obj\Debug\App.g.cs
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\oma sovellus\oma sovellus\obj\Debug\oma sovellus_MarkupCompile.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\oma sovellus\oma sovellus\obj\Debug\oma sovellus_MarkupCompile.lref
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\oma sovellus\oma sovellus\bin\Debug\oma sovellus.exe.config
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\oma sovellus\oma sovellus\bin\Debug\oma sovellus.exe
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\oma sovellus\oma sovellus\bin\Debug\oma sovellus.pdb
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\oma sovellus\oma sovellus\obj\Debug\MainWindow.baml
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\oma sovellus\oma sovellus\obj\Debug\oma sovellus.g.resources
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\oma sovellus\oma sovellus\obj\Debug\oma_sovellus.Properties.Resources.resources
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\oma sovellus\oma sovellus\obj\Debug\oma sovellus.csproj.GenerateResource.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\oma sovellus\oma sovellus\obj\Debug\oma sovellus.csproj.CoreCompileInputs.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\oma sovellus\oma sovellus\obj\Debug\oma sovellus.exe
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\oma sovellus\oma sovellus\obj\Debug\oma sovellus.pdb

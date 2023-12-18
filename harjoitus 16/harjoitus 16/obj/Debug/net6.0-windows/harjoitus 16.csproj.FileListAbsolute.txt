@@ -3,7 +3,6 @@ C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 16\harjo
 C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 16\harjoitus 16\bin\Debug\net6.0-windows\harjoitus 16.runtimeconfig.json
 C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 16\harjoitus 16\bin\Debug\net6.0-windows\harjoitus 16.dll
 C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 16\harjoitus 16\bin\Debug\net6.0-windows\harjoitus 16.pdb
-C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 16\harjoitus 16\obj\Debug\net6.0-windows\harjoitus 16.csproj.AssemblyReference.cache
 C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 16\harjoitus 16\obj\Debug\net6.0-windows\MainWindow.g.cs
 C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 16\harjoitus 16\obj\Debug\net6.0-windows\App.g.cs
 C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 16\harjoitus 16\obj\Debug\net6.0-windows\harjoitus 16_MarkupCompile.cache

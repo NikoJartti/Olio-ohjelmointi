@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oma sovellus", "oma sovellus\oma sovellus.csproj", "{FAD40AB4-3164-4452-B01A-0AEF3D29D702}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAD40AB4-3164-4452-B01A-0AEF3D29D702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAD40AB4-3164-4452-B01A-0AEF3D29D702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAD40AB4-3164-4452-B01A-0AEF3D29D702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAD40AB4-3164-4452-B01A-0AEF3D29D702}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69002298-E484-46C4-AB55-D502E31770ED}
+	EndGlobalSection
+EndGlobal

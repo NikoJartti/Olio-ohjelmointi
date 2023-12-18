@@ -1,0 +1,18 @@
+﻿<Window x:Class="harjoitus_20.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:harjoitus_20"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <TextBlock Text="Opiskelijan tiedot:" FontWeight="Bold" Margin="5"/>
+            <StackPanel Name="stockPanel" Margin="5"/>
+            <Button Content="Luo Opiskelija" Click="btnLuoOpiskelija_Click" Margin="5"/>
+            <Button Content="Tallenna tiedostoon" Click="btnSaveToFile_Click" Margin="5"/>
+            <Button Content="Lataa tiedostosta" Click="btnLoadFromFile_Click" Margin="5"/>
+        </StackPanel>
+    </Grid>
+</Window>

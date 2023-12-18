@@ -1,0 +1,15 @@
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 18\harjoitus 18\obj\Debug\harjoitus 18.csproj.AssemblyReference.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 18\harjoitus 18\obj\Debug\MainWindow.baml
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 18\harjoitus 18\obj\Debug\MainWindow.g.cs
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 18\harjoitus 18\obj\Debug\App.g.cs
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 18\harjoitus 18\obj\Debug\harjoitus 18_MarkupCompile.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 18\harjoitus 18\obj\Debug\harjoitus 18.g.resources
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 18\harjoitus 18\obj\Debug\harjoitus_18.Properties.Resources.resources
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 18\harjoitus 18\obj\Debug\harjoitus 18.csproj.GenerateResource.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 18\harjoitus 18\obj\Debug\harjoitus 18.csproj.CoreCompileInputs.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 18\harjoitus 18\bin\Debug\harjoitus 18.exe.config
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 18\harjoitus 18\bin\Debug\harjoitus 18.exe
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 18\harjoitus 18\bin\Debug\harjoitus 18.pdb
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 18\harjoitus 18\obj\Debug\harjoitus 18_MarkupCompile.lref
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 18\harjoitus 18\obj\Debug\harjoitus 18.exe
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 18\harjoitus 18\obj\Debug\harjoitus 18.pdb

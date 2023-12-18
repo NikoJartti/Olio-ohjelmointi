@@ -1,0 +1,22 @@
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 23\harjoitus 23\obj\Debug\harjoitus 23.csproj.AssemblyReference.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 23\harjoitus 23\obj\Debug\App.g.cs
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 23\harjoitus 23\obj\Debug\harjoitus 23_MarkupCompile.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 23\harjoitus 23\bin\Debug\harjoitus 23.exe.config
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 23\harjoitus 23\bin\Debug\harjoitus 23.exe
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 23\harjoitus 23\bin\Debug\harjoitus 23.pdb
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 23\harjoitus 23\bin\Debug\LiveCharts.dll
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 23\harjoitus 23\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 23\harjoitus 23\bin\Debug\LiveCharts.pdb
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 23\harjoitus 23\bin\Debug\LiveCharts.xml
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 23\harjoitus 23\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 23\harjoitus 23\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 23\harjoitus 23\obj\Debug\MainWindow.g.cs
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 23\harjoitus 23\obj\Debug\harjoitus 23_MarkupCompile.lref
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 23\harjoitus 23\obj\Debug\MainWindow.baml
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 23\harjoitus 23\obj\Debug\harjoitus 23.g.resources
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 23\harjoitus 23\obj\Debug\harjoitus_23.Properties.Resources.resources
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 23\harjoitus 23\obj\Debug\harjoitus 23.csproj.GenerateResource.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 23\harjoitus 23\obj\Debug\harjoitus 23.csproj.CoreCompileInputs.cache
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 23\harjoitus 23\obj\Debug\harjoitus 23.csproj.CopyComplete
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 23\harjoitus 23\obj\Debug\harjoitus 23.exe
+C:\Users\niko.jartti\source\repos\NikoJartti\Olio-ohjelmointi\harjoitus 23\harjoitus 23\obj\Debug\harjoitus 23.pdb
